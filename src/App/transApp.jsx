@@ -9,7 +9,6 @@ function App() {
                 <img src={logo} className='ts_app_logo' alt='logo'/>
             </header>
         </div>
-        
     )
 }
 

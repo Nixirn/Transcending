@@ -1,4 +1,18 @@
 .ts_app {
-  margin: 0 auto; 
-  place-items: center;
+  height: 100dvh;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.ts_app_header {
+  align-self: center;
+}
+
+.ts_app_logo {
+  border: 5px solid black;
+}
+
+body {
+  background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red);
 }
